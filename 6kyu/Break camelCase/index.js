@@ -28,4 +28,4 @@ function solution(string) {
       }
     }
     return newString;
-}
+};
