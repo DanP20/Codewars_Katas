@@ -1,0 +1,1 @@
+Test.assertEquals(parseF("1"), 1.0);
